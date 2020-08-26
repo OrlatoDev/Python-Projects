@@ -1,11 +1,11 @@
 # Python-Projects
-Meus principais projetos feito com Python 3, Tkinter e algumas outras bibliotecas.
+My main projects made with Python 3, Tkinter and some more libraries.
 
-Instruções:
-- Escolha o aplicativo que quer testar;
-- Baixe a pasta (ou clone com git);
-- Abra a pasta do projeto;
-- Abra a pasta "dist";
-- Abra o arquivo .exe;
+Instructions:
+- Chose the app for test;
+- Download the folder (or use git clone);
+- Open the app folder;
+- Open the folde: "dist";
+- Open the .exe file;
 
-OBS: é recomendável desativar o antivírus para evitar que ele apague arquivos essenciais.
+Obs.: is recommendable disable your antivirus for avoid problems.
